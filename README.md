@@ -17,5 +17,4 @@ Recommend using as executor:
 
 <h2> For Windows: </h2>
 
-[Evon](https://filedm.com/8jA2z) <br> <br>
 [Wave](https://cdn.getwave.gg/WaveInstaller.exe)
